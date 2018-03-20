@@ -1,0 +1,11 @@
+{
+  "name": "actionlibjs",
+  "version": "0.0.1",
+  "description": "actionlib implementation for JS ros clients",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chris smith",
+  "license": "Apache-2.0"
+}
